@@ -1,5 +1,5 @@
 1 Arhipenko Sofja
-print(24+8-13)
+print(24*9+8-13)
 2 Berga Laura
 
 3 Fiïimonovs Eldars
